@@ -1,0 +1,34 @@
+================================================================================
+             ELECTRICAL FAULT DIAGNOSIS & PROTECTION ANALYSIS REPORT            
+================================================================================
+
+1. SYSTEM IMPEDANCE PARAMETERS:
+   - Source Impedance (Zs) : 0.200 + j1.500 Ohms (Mag: 1.513 Ohms)
+   - Feeder Impedance (Zf) : 0.400 + j0.800 Ohms (Mag: 0.894 Ohms)
+   - Total Loop Impedance  : 0.600 + j2.300 Ohms (Mag: 2.377 Ohms)
+
+2. FAULT EVENT SUMMARY STATISTICS:
+   - Total Records Evaluated : 8
+   - Normal Healthy State    : 2
+   - Line-to-Ground (L-G)    : 2
+   - Line-to-Line (L-L)      : 1
+   - Double Line-to-Ground   : 1
+   - Three-Phase Symmetrical : 1
+   - Sustained Overload/Unbal: 1
+   - Total Breaker Trips     : 5
+   - Max Peak Fault Current  : 4900.00 Amperes
+
+3. EVALUATED FAULT LOG DETAILS:
+Record ID  Feeder     Fault Classification      Phases     Max I (A)  Min V (kV) Recommended Action      
+----------------------------------------------------------------------------------------------------
+FLT-001    FDR-NORTH  Normal Operation          None       422.1      6.34       NO ACTION (Normal)      
+FLT-002    FDR-NORTH  Line-to-Ground (L-G)      A-G        2150.0     1.82       TRIP FEEDER BREAKER (ANSI 51)
+FLT-003    FDR-SOUTH  Line-to-Line (L-L)        B-C        2850.0     2.10       INSTANTANEOUS TRIP (ANSI 50)
+FLT-004    FDR-EAST   Double Line-to-Ground (L-L-G) A-B-G      3100.0     1.90       INSTANTANEOUS TRIP (ANSI 50)
+FLT-005    FDR-WEST   Three-Phase Symmetrical (3P) A-B-C      4900.0     0.82       EMERGENCY BUS LOCKOUT (86)
+FLT-006    FDR-NORTH  Overload / Phase Unbalance Unbalanced 680.0      6.15       MONITOR / ALARM (Warning)
+FLT-007    FDR-SOUTH  Normal Operation          None       412.0      6.34       NO ACTION (Normal)      
+FLT-008    FDR-EAST   Line-to-Ground (L-G)      B-G        2450.0     1.65       INSTANTANEOUS TRIP (ANSI 50)
+
+================================================================================
+END OF PROTECTION ANALYSIS REPORT
