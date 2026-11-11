@@ -7,8 +7,8 @@
   - **Student Name:** [Individual Student Submission]
   - **Roll Number:** [Student Roll Number]
   - **Division / Batch:** [Division / Batch]
-  - **Repository Name:** electrical-fault-diagnosis-system
-  - **GitHub Repository Link:** https://github.com/[username]/electrical-fault-diagnosis-system
+  - **Repository Name:** Electrical-Fault-Analyser
+  - **GitHub Repository Link:** https://github.com/Varun-Godbole/Electrical-Fault-Analyser
 
 ### 1.1 Individual Project Declaration
 I confirm that this project is my individual work. I understand the design, source code, unit tests, Makefile and documentation included in this repository, and I am prepared to explain or modify any part during evaluation.

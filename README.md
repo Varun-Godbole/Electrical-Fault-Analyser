@@ -10,7 +10,7 @@
 - **Project Title:** Electrical Fault Diagnosis & Protection Analysis System
 - **Engineering Domain:** Energy / Electrical Power Systems / Industrial Substation Automation
 - **Course:** Programming Fundamentals and Software Engineering
-- **GitHub Repository:** `electrical-fault-diagnosis-system`
+- **GitHub Repository:** [https://github.com/Varun-Godbole/Electrical-Fault-Analyser](https://github.com/Varun-Godbole/Electrical-Fault-Analyser)
 
 ---
 
