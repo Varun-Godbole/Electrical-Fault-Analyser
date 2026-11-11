@@ -1,0 +1,26 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+build/
+bin/
+
+# Test artifacts
+test_runner
+test_runner.exe
+
+# Output reports & logs
+output/
+*.log
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
